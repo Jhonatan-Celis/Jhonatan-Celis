@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Celis</h1>
 
+Me motiva crear productos digitales que no solo funcionen, sino que generen impacto. Soy ingeniero de sistemas y desarrollo soluciones web eficientes, combinando habilidades en frontend, backend y buenas prácticas de desarrollo. 
+
 Me encanta la tecnología, la ciencia y la música.
 
-Me motiva crear productos digitales que no solo funcionen, sino que generen impacto. Soy ingeniero de sistemas con más de 6 años de experiencia desarrollando soluciones web eficientes, combinando mis habilidades en frontend, backend y buenas prácticas de desarrollo. 
-
-[K.I.S.S](https://codeyourapps.com/el-principio-kiss-mantenlo-simple-estupido/) :shipit:
+> [!TIP]
+> [K.I.S.S](https://codeyourapps.com/el-principio-kiss-mantenlo-simple-estupido/) :shipit:
 
 
 ## 👨‍💻 Technologies & Tools
