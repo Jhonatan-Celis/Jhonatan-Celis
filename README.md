@@ -24,7 +24,7 @@ Me encanta la tecnología, la ciencia y la música.
 | 🌀 Metodologías              | Desarrollo ágil (`Scrum`), mobile-first                                                  |
 
 
-## 🔥 Actividad por cuenta
+## 📊 Estadísticas por cuenta
 
 #### 👤 [Jhonatan-Celis](https://github.com/Jhonatan-Celis)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan-celis&theme=synthwave&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
