@@ -30,7 +30,15 @@ Me encanta la tecnología, la ciencia y la música.
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan-celis&theme=synthwave&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 #### 🏛️ [jcelis3-bdb](https://github.com/jcelis3-bdb?tab=overview&from=2024-12-01&to=2024-12-31)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jcelis3-bdb&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=00317E&sideLabels=F6FAFF&currStreakNum=FFBE00&currStreakLabel=F6FAFF&excludeDaysLabel=B3B3B3&dates=EDF7FF&stroke=F6FAFF&fire=CC3232&ring=F6FAFF&sideNums=F6FAFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jcelis3-bdb&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sat%2CSSun&background=00317E&sideLabels=F6FAFF&currStreakNum=FFBE00&currStreakLabel=F6FAFF&excludeDaysLabel=B3B3B3&dates=EDF7FF&stroke=F6FAFF&fire=CC3232&ring=F6FAFF&sideNums=F6FAFF)](https://git.io/streak-stats)
+
+<!--
+Perma link jhonatan-celis:
+https://streak-stats.demolab.com/demo/?user=jhonatan-celis&theme=synthwave&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D
+
+Perma Link jcelis3-bdb:
+https://streak-stats.demolab.com/demo/?user=jcelis3-bdb&theme=default&hide_border=true&border_radius=4.5&locale=es&short_numbers=false&date_format=&mode=daily&exclude_days=Sun%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&background=%2300317E&border=%2300317E&stroke=%23F6FAFF&ring=%23F6FAFF&fire=%23CC3232&currStreakNum=%23F6FAFF&sideNums=%23F6FAFF&currStreakLabel=%23F6FAFF&sideLabels=%23F6FAFF&dates=%23EDF7FF&excludeDaysLabel=%23B3B3B3
+-->
 
 <!--
 #### 🏦 [JhonatanCelis](https://github.com/JhonatanCelis?tab=overview&from=2021-12-01&to=2021-12-31)
