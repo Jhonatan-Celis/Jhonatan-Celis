@@ -11,14 +11,14 @@ Me encanta la tecnología, la ciencia y la música.
 ## 👨‍💻 Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,jest,js,css,spring,java,py,mysql,postgres,linux,bash,postman,figma&theme=light" /> 
+    <img src="https://skillicons.dev/icons?i=angular,astro,jest,js,css,spring,java,py,mysql,postgres,linux,bash,postman,figma&theme=light" /> 
   </a>
 </p>
 
 | 🧩 Categoría                 | ⚙️ Tecnologías / Herramientas                                                            |
 |------------------------------|------------------------------------------------------------------------------------------|
 | 💻 Lenguajes & Scripting     | `JavaScript`, `TypeScript`, `Java`, `HTML`, `CSS`, `Bash`                                |
-| 🚀 Frameworks & Arquitectura | `Angular`, `Spring Boot`, Microservicios, Microfrontends                                 |
+| 🚀 Frameworks & Arquitectura | `Angular`, `Spring Boot`, `Astro`, Microservicios, Microfrontends                                 |
 | 🗄️ Bases de Datos            | `MySQL`, `PostgreSQL`, `SQLite`                                                          |
 | 🧰 Herramientas de Desarrollo| `Git`, `GitKraken`, `Postman`, `MobaXterm`, `VS Code`, `NetBeans`, `Workbench`, `Figma`  |
 | 🌀 Metodologías              | Desarrollo ágil (`Scrum`), mobile-first                                                  |
